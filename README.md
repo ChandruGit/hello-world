@@ -1,2 +1,2 @@
 # hello-world
-My first Repository
+This is the first Git Repository created by Chandru
